@@ -1,3 +1,12 @@
+# Standard stuff
+build
+build-linux
+build-linux64
+build-linux32
+build-win32
+build-win64
+build-macos
+
 # Compiled Object files
 *.slo
 *.lo
